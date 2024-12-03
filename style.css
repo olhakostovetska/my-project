@@ -1,3 +1,14 @@
+h1{
+  background-color: lightblue;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  height: 60px;
+  margin: 0;
+  margin-bottom: 30px;
+  text-align: justify;
+  line-height: 60px;
+  tab-size: 30pc;
+}
 .row{
   margin-bottom: 10px;
 }
